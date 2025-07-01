@@ -22,8 +22,6 @@ Also, [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-g
 
 [Design Collab](https://chat.openai.com/g/g-lwdIgFWps-design-collab)
 <br>
-[Collaboration](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
-<br>
 [Collab Prompting](https://chatgpt.com/g/g-6817d818f4108191861cad384167f1dc-collab-prompting)
 <br>
 [Balanced Collab](https://chatgpt.com/g/g-6827440284c08191802526f4094e2fb2-balanced-collab)
