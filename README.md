@@ -4,7 +4,7 @@ Multiuser software is designed to enhance collaboration and communication within
 
 #
 
-![Team Simulator](https://github.com/user-attachments/assets/79ff2dc1-29ee-49b0-a47d-606900918be4)
+![Team](https://github.com/user-attachments/assets/99871155-92ae-4f70-ab86-9352572bca8e)
 
 [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator) is a custom GPT made to simulate various team structures and roles, helping users navigate scenarios in project teams, sports teams, or professional business teams. It offers insights from diverse perspectives, such as project managers, software engineers, marketing specialists, coaches, and team captains, aiding in decision-making, collaboration, and scenario planning. By stepping into different team member roles, it helps users understand team dynamics, improve communication, and optimize strategies for teamwork in various contexts. 
 
