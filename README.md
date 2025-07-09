@@ -27,3 +27,5 @@ Also, [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-g
 [Collab Prompting](https://chatgpt.com/g/g-6817d818f4108191861cad384167f1dc-collab-prompting)
 <br>
 [Balanced Collab](https://chatgpt.com/g/g-6827440284c08191802526f4094e2fb2-balanced-collab)
+<br>
+[Sports](https://github.com/sourceduty/Sports)
