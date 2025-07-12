@@ -18,7 +18,13 @@ Also, [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-g
 
 ![Music](https://github.com/user-attachments/assets/a8ae0713-a3f8-4097-8d2a-a8ee6fd3e8d3)
 
-[Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration) is a custom GPT made to collaborate with users in crafting song lyrics, working step-by-step to refine and enhance the lyrics based on the user's input. It starts with a provided song title and helps build lyrics that align with the desired theme, tone, and mood. The GPT ensures that the lyrics flow cohesively, offering suggestions and making adjustments as needed to create a unique and personalized song. The process is interactive, allowing the user to guide the direction while the GPT adds creative support. 
+[Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration) is a custom GPT made to collaborate with users in crafting song lyrics, working step-by-step to refine and enhance the lyrics based on the user's input. It starts with a provided song title and helps build lyrics that align with the desired theme, tone, and mood. The GPT ensures that the lyrics flow cohesively, offering suggestions and making adjustments as needed to create a unique and personalized song. The process is interactive, allowing the user to guide the direction while the GPT adds creative support.
+
+#
+
+![LAN Party](https://github.com/user-attachments/assets/d8b20685-efca-44f9-abf4-9c8704b6c193)
+
+A [LAN party](https://chatgpt.com/g/g-6871857521848191b050b1af44fdb82d-lan-party) is a social event where gamers gather in the same physical location to connect their computers, laptops, or gaming consoles to a Local Area Network (LAN), allowing them to play multiplayer games in real-time with minimal lag and maximum speed. Participants typically bring a variety of hardware to ensure an optimal gaming experience, including desktop PCs or laptops with high-performance specs, gaming monitors with fast refresh rates, and input devices like mechanical keyboards, mice, and controllers. The network infrastructure is crucial, with routers or switches connecting all the devices via Ethernet cables for a stable connection, as wireless networks may not provide the same level of reliability and low latency. Power is another consideration, as attendees need power strips, surge protectors, and possibly backup power sources like uninterruptible power supplies (UPS) to ensure their devices stay functional throughout the event.
 
 #
 
